@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorForbid">#6c7deb</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColor">#202020</color>
+    <color name="textColorHint">#A0A0A0</color>
+    <color name="textColorVice">#6C6C6C</color>
+    <color name="viewLineColor">#F0F0F0</color>
+
+    <color name="color_FF6E1292">#FF6E1292</color>
+    <color name="color_FCFCFC">#FCFCFC</color>
+    <color name="tab_checked">@color/color_3E90FF</color>
+    <color name="tab_unchecked">#757575</color>
+    <color name="color_aaaaaa">#AAAAAA</color>
+    <color name="coror_75757575">#75757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="color_10192A">#10192A</color>
+    <color name="color_3E90FF">#3E90FF</color>
+    <color name="color_E7E7E7">#EEEEEE</color>
+    <color name="color_36D3C2">#36D3C2</color>
+    <color name="color_F3C141">#F3C141</color>
+    <color name="color_FE8969">#FE8969</color>
+    <color name="color_386ee8">#386ee8</color>
+    <color name="color_F84D5D">#F84D5D</color>
+    <color name="color_DF5550">#DF5550</color>
+</resources>
